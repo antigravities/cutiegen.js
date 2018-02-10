@@ -1,2 +1,2 @@
 # cutiegen.js
-Compiles database.gen in Caffeine and other projects to JavaScript
+Compiles database.gen SQL statements in Caffeine and other projects to JavaScript
