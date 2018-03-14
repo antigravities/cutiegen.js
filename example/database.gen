@@ -6,6 +6,6 @@ SELECT ("Hello World")
 --
 add
 Add two numbers together.
-item1 int~The first number.	item2 int~The second number.
+item1 int~The first number.||item2 int~The second number.
 The result of the two numbers added together.
 SELECT (?+?)
