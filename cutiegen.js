@@ -19,7 +19,7 @@ file.forEach((v) => {
   
   let params;
   if( v[2].trim() == "" ) params = [];
-  else params = v[2].trim().split("\t");
+  else params = v[2].trim().split("||");
   
   let docReturns = "@return {Promise} " + v[3].trim();
   let statement = v[4].trim();
